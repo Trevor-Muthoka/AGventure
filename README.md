@@ -1,6 +1,2 @@
-# Team-3-Demo
-Just getting used to github 
-Team 3 Strathmore
-
-## Edits
-Hi. This is Caren. I was able to fork and clone to my local machine. Hopfully, I'll be able to push to Trevor.
+#AGventure
+This is a web application by Strathmore team 3 to help farmers access new markets more info to be released later so just keep checking this page.
